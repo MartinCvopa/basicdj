@@ -1,0 +1,2 @@
+# basicdj
+basic django aplikacia
